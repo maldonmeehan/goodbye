@@ -12,18 +12,16 @@ Here is a link to the lesson: https://www.learnhowtoprogram.com/intro-to-program
 
 ## Setup/Installation Requirements
 
-* Clone the Git repository (it is password protected)
-* Open https://github.com/maldonmeehan/goodbye in a Web browser of your choice
-* Read the text and view the photos
-* Take joy in simple things
+* Clone the Git repository https://github.com/maldonmeehan/goodbye
+* Open the html file in a Web browser of your choice
 
 ## Known Bugs
 
-_Currently no known bugs_
+Currently no known bugs
 
 ## Support and contact details
 
-If you run into any issues or have questions, ideas or concerns, please contact Maldon at maldonmeehan@gmail.com or Noah at noahyasskin@gmail.com. We welcome any contributions you would like to make to the code or content.
+If you run into any issues or have questions, ideas or concerns, please contact Maldon Meehan or Noah Yasskin. We welcome any contributions you would like to make to the code or content.
 
 ## Technologies Used
 
@@ -33,4 +31,4 @@ The languages and tools we used to create this app are HTML block and inline ele
 
 This software is licensed under the MIT license
 
-Copyright (c) 2016 **_Maldon Meehan and Noah Yasskin (Epicodus students)_**
+Copyright (c) 2016 **Maldon Meehan and Noah Yasskin (Epicodus students)**
